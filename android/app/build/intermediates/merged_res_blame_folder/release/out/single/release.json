@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "com.sellerapp-merged_res-35:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.sellerapp-main-36:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.sellerapp-merged_res-35:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.sellerapp-res-30:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.sellerapp-merged_res-35:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.sellerapp-main-36:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.sellerapp-merged_res-35:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.sellerapp-main-36:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.sellerapp-merged_res-35:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.sellerapp-main-36:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.sellerapp-merged_res-35:/drawable-mdpi_src_assets_images_bank.png.flat",
+        "source": "com.sellerapp-res-30:/drawable-mdpi/src_assets_images_bank.png"
+    },
+    {
+        "merged": "com.sellerapp-merged_res-35:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.sellerapp-main-36:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.sellerapp-merged_res-35:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.sellerapp-res-30:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.sellerapp-merged_res-35:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.sellerapp-res-30:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.sellerapp-merged_res-35:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.sellerapp-main-36:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.sellerapp-merged_res-35:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.sellerapp-main-36:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.sellerapp-merged_res-35:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.sellerapp-res-30:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.sellerapp-merged_res-35:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.sellerapp-main-36:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.sellerapp-merged_res-35:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.sellerapp-main-36:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.sellerapp-merged_res-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.sellerapp-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.sellerapp-merged_res-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.sellerapp-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.sellerapp-merged_res-35:/drawable-mdpi_src_assets_images_location.png.flat",
+        "source": "com.sellerapp-res-30:/drawable-mdpi/src_assets_images_location.png"
+    },
+    {
+        "merged": "com.sellerapp-merged_res-35:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.sellerapp-main-36:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.sellerapp-merged_res-35:/drawable-mdpi_src_assets_images_tax.png.flat",
+        "source": "com.sellerapp-res-30:/drawable-mdpi/src_assets_images_tax.png"
+    },
+    {
+        "merged": "com.sellerapp-merged_res-35:/drawable-mdpi_src_assets_images_logo.png.flat",
+        "source": "com.sellerapp-res-30:/drawable-mdpi/src_assets_images_logo.png"
+    },
+    {
+        "merged": "com.sellerapp-merged_res-35:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.sellerapp-main-36:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.sellerapp-merged_res-35:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.sellerapp-main-36:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.sellerapp-merged_res-35:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.sellerapp-main-36:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.sellerapp-merged_res-35:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.sellerapp-main-36:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.sellerapp-merged_res-35:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.sellerapp-res-30:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.sellerapp-merged_res-35:/mipmap-ldpi_ic_launcher.png.flat",
+        "source": "com.sellerapp-main-36:/mipmap-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.sellerapp-merged_res-35:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.sellerapp-res-30:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.sellerapp-merged_res-35:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.sellerapp-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.sellerapp-merged_res-35:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.sellerapp-main-36:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.sellerapp-merged_res-35:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.sellerapp-main-36:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.sellerapp-merged_res-35:/drawable-mdpi_src_assets_images_product.png.flat",
+        "source": "com.sellerapp-res-30:/drawable-mdpi/src_assets_images_product.png"
+    },
+    {
+        "merged": "com.sellerapp-merged_res-35:/drawable-mdpi_src_assets_icons_search.png.flat",
+        "source": "com.sellerapp-res-30:/drawable-mdpi/src_assets_icons_search.png"
+    },
+    {
+        "merged": "com.sellerapp-merged_res-35:/drawable-mdpi_src_assets_images_security.png.flat",
+        "source": "com.sellerapp-res-30:/drawable-mdpi/src_assets_images_security.png"
+    }
+]
